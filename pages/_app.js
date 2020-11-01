@@ -13,7 +13,7 @@ const components = {
         <Card
           variant="aboutCard"
           sx={{
-            mt: 4,
+            mt: 2,
             fontFamily: 'Recursive',
           }}
         >
