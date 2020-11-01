@@ -23,9 +23,11 @@ const components = {
           <Flex>
             <Box>
                🗻<Badge variant="outline" sx={{ fontFamily: 'Recursive', fontSize: 16 }}>
-                  caryvan.club
+                  caryvan
                 </Badge>
-              🏔🌲🚙🚐🚚🌲🍄
+              🏔🌲🚙🚐🚚🌲<Badge variant="outline" sx={{ fontFamily: 'Recursive', fontSize: 16 }}>
+                  club
+                </Badge>🌲
             </Box>
           </Flex>
           <main {...props} />
