@@ -15,9 +15,6 @@ const components = {
           sx={{
             mt: 4,
             fontFamily: 'Recursive',
-            background: 'linear-gradient(-45deg, #e6fffa, #faf5ff, #ebf8ff)',
-            backgroundSize: '400% 400%',
-            animation: 'gradient 10s ease infinite',
           }}
         >
           <Flex>
