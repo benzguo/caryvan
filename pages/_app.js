@@ -22,11 +22,10 @@ const components = {
         >
           <Flex>
             <Box>
-              <Link href="/about" variant="nav">
                 <Badge variant="outline" sx={{ fontFamily: 'Recursive', fontSize: 16 }}>
                   caryvan.club
                 </Badge>
-              </Link>
+              🏔🌲🚙🚐🚚🌲🍄
             </Box>
           </Flex>
           <main {...props} />
