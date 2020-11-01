@@ -14,6 +14,7 @@ const components = {
           variant="aboutCard"
           sx={{
             mt: 2,
+            py: 1,
             fontFamily: 'Recursive',
             background: "linear-gradient(-45deg, #e6fffa, #faf5ff, #ebf8ff)",
   backgroundSize: "1000% 1000%",

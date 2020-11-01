@@ -109,7 +109,7 @@ export default {
   },
   cards: {
     aboutCard: {
-      p: 3,
+      px: 3,
       bg: 'transparent',
       borderRadius: 12,
       border: '1px solid black',
