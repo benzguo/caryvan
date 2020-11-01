@@ -22,7 +22,7 @@ const components = {
         >
           <Flex>
             <Box>
-                <Badge variant="outline" sx={{ fontFamily: 'Recursive', fontSize: 16 }}>
+               🗻<Badge variant="outline" sx={{ fontFamily: 'Recursive', fontSize: 16 }}>
                   caryvan.club
                 </Badge>
               🏔🌲🚙🚐🚚🌲🍄
