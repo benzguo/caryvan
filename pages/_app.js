@@ -21,7 +21,7 @@ const components = {
   animation: "gradient 15s ease infinite"
           }}
         >
-          <Flex>
+          <Flex sx={{justifyContent: "center"}}>
             <Box>
                🗻<Badge variant="outline" sx={{ fontFamily: 'Recursive', fontSize: 16 }}>
                   caryvan
