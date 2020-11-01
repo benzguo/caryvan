@@ -25,7 +25,7 @@ const components = {
                🗻<Badge variant="outline" sx={{ fontFamily: 'Recursive', fontSize: 16 }}>
                   caryvan
                 </Badge>
-              🏔🌲🚙🚐🚚🌲<Badge variant="outline" sx={{ fontFamily: 'Recursive', fontSize: 16 }}>
+              🏔🚙🚐🚚🌲<Badge variant="outline" sx={{ fontFamily: 'Recursive', fontSize: 16 }}>
                   club
                 </Badge>🌲
             </Box>
